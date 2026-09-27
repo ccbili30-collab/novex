@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.4/Novex-3.0.4.apk"
   },
   "preview": {
-    "version": "3.0.5-beta.83",
+    "version": "3.0.5-beta.84",
     "channel": "preview",
     "date": "2026-09-27",
-    "notes": "更新源双通道：默认 Gitee（国内）可切换 GitHub（海外），预览/正式独立取道；快照提示词退化（创作会话不产虚构快照）；笔记整理范围契约；挂卡契约提示词分区块重构。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.83/Novex-3.0.5-beta.83-preview.novex"
+    "notes": "公告体系上线：公告随更新源（Gitee 道读发布站公告，作者写文件即生效）；更新源标签简化；仓库链接全面换新；技能外部市场入口移除（预设技能不变）。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.84/Novex-3.0.5-beta.84-preview.novex"
   }
 }
