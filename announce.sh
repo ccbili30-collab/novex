@@ -44,4 +44,4 @@ p.write_text("".join(lines))
 PY
 
 git add "$FILE" announcements.json README.md
-echo "✅ 已生成并暂存：$FILE（索引+README 已加行）。写完正文后 commit + push 即应用内生效。"
+echo "✅ 已生成并暂存：${FILE}（索引+README 已加行）。写完正文后 commit + push 即应用内生效。"
