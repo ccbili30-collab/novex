@@ -19,8 +19,13 @@ Novex（Android 客户端）的**官方国内分发站**，托管在 Gitee。三
 
 | 通道 | 版本格式 | Gitee Release 参数 | 来源 |
 |---|---|---|---|
-| 稳定版 stable | `v0.2.x` | `prerelease=false` | `main` 稳定线构建 |
-| 预览版 preview | `v0.3.0-beta.n` | `prerelease=true` | `next` 预览线构建 |
+| 稳定版 stable | `v3.0.x` | `prerelease=false` | `main` 稳定线构建 |
+| 预览版 preview | `v3.0.5-beta.n` | `prerelease=true` | `next` 预览线构建 |
+
+> 版本线自 3.0 起与 GitHub（ccbili30-collab/novex-android）同号。发布流程
+> 已改为**双推**：每轮 GitHub 发版后，用同一版本号把 APK 经 publish.sh 推
+> 到本站，两边 update 信息保持一致（GitHub 侧为 Releases API，本站为
+> update.json）。
 
 ## 认证（先读这里）
 
