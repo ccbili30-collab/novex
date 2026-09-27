@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.4/Novex-3.0.4.apk"
   },
   "preview": {
-    "version": "3.0.5-beta.87",
+    "version": "3.0.5-beta.88",
     "channel": "preview",
     "date": "2026-09-28",
-    "notes": "卡片采用页互动语义清晰化：角色卡=扮演，世界卡=GM 叙述（类型徽标+单选命名+说明）。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.87/Novex-3.0.5-beta.87-preview.novex"
+    "notes": "卡片采用三专属页：回答身份单选（Nova/角色·扮演/世界·GM 叙述分组并列）、背景资料多选+模块携带、管理多选；原三列矩阵页退役，对话设置各行回到专属入口。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.88/Novex-3.0.5-beta.88-preview.novex"
   }
 }
