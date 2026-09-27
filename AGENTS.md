@@ -81,8 +81,9 @@ API base：`https://gitee.com/api/v5`，认证参数 `access_token=<令牌>`。
 ## 写公告
 
 1. 新建 `announcements/YYYY-MM-DD-标题.md`（中文正文）；
-2. 在 `README.md` 的「📢 公告」列表顶部加一行链接；
-3. commit + push。
+2. 在 `announcements.json` 的数组**顶部**加一行 `{"file":"announcements/…","title":"…","date":"YYYY-MM-DD"}`（应用内公告从这里读，最多前 5 条，新到旧）；
+3. 在 `README.md` 的「📢 公告」列表顶部加一行链接（人类浏览入口）；
+4. commit + push——应用内即时生效，无需发版。
 
 ## 验证清单（每次发版/公告后必须全过）
 
