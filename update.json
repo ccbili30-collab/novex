@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.4/Novex-3.0.4.apk"
   },
   "preview": {
-    "version": "3.0.5-beta.86",
+    "version": "3.0.5-beta.87",
     "channel": "preview",
     "date": "2026-09-28",
-    "notes": "公告面板即开即显（磁盘缓存，关闭前的公告第一时间可见，失败不覆盖）；硬编码内置归档（0.2.x 遗留内容）退役。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.86/Novex-3.0.5-beta.86-preview.novex"
+    "notes": "卡片采用页互动语义清晰化：角色卡=扮演，世界卡=GM 叙述（类型徽标+单选命名+说明）。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.87/Novex-3.0.5-beta.87-preview.novex"
   }
 }
