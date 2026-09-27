@@ -1,0 +1,11 @@
+{
+  "_readme": "客户端更新源。channel: stable=稳定版 preview=预览版。download 指向 Gitee 发行版附件，推送后由 publish.sh 自动维护。",
+  "stable": {
+    "version": "0.2.2",
+    "channel": "stable",
+    "date": "2026-09-01",
+    "notes": "conversation settings preview",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v0.2.2/Novex-0.2.2-conversation-settings-preview.apk"
+  },
+  "preview": null
+}

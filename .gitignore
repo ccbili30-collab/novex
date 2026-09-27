@@ -1,0 +1,5 @@
+# 本地凭据与临时文件不入库
+local/
+.DS_Store
+*.apk
+*.log
