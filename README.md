@@ -35,6 +35,7 @@
 
 所有公告按时间倒序存放在 [`announcements/`](./announcements) 目录：
 
+- [2026-09-28 · Novex 3.0.5 正式版发布](./announcements/2026-09-28-Novex 3.0.5 正式版发布.md)
 - [2026-09-27 · 发布站上线](./announcements/2026-09-27-发布站上线.md)
 
 ## 🔄 应用内检查更新（开发者用）

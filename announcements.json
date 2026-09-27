@@ -2,6 +2,11 @@
   "_readme": "应用内公告索引（新到旧）。写公告：announcements/ 新建 md，再把 {file,title,date} 加到本数组顶部，push 即生效（应用最多读前 5 条）。",
   "announcements": [
     {
+      "file": "announcements/2026-09-28-Novex 3.0.5 正式版发布.md",
+      "title": "Novex 3.0.5 正式版发布",
+      "date": "2026-09-28"
+    },
+    {
       "file": "announcements/2026-09-27-发布站上线.md",
       "title": "发布站上线",
       "date": "2026-09-27"
