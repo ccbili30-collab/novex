@@ -4,7 +4,7 @@
 
 **Novex · Android 客户端官方发布站**
 
-[![最新版本](https://img.shields.io/badge/最新版本-v3.0.4-blue)](./announcements)
+[![最新版本](https://img.shields.io/badge/最新版本-v3.0.5-blue)](./announcements)
 [![更新通道](https://img.shields.io/badge/通道-稳定%20stable-green)](#-更新通道)
 
 </div>
@@ -20,7 +20,7 @@
 
 | 通道 | 版本 | 说明 |
 |---|---|---|
-| **稳定版（推荐）** | v3.0.4 | 日常使用请选这个 |
+| **稳定版（推荐）** | v3.0.5 | 日常使用请选这个 |
 | 预览版 | v3.0.5-beta.83 | 新功能尝鲜，可能不稳定 |
 
 👉 **点击仓库顶部「发行版 / Releases」标签页下载最新安装包**
