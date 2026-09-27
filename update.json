@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.4/Novex-3.0.4.apk"
   },
   "preview": {
-    "version": "3.0.5-beta.84",
+    "version": "3.0.5-beta.85",
     "channel": "preview",
     "date": "2026-09-27",
-    "notes": "公告体系上线：公告随更新源（Gitee 道读发布站公告，作者写文件即生效）；更新源标签简化；仓库链接全面换新；技能外部市场入口移除（预设技能不变）。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.84/Novex-3.0.5-beta.84-preview.novex"
+    "notes": "公告体系 v2：通用公告双版本互通、新公告冷启动弹窗（关闭即已读）、版本公告按通道定向、公告面板内公告/更新切换、公告一处写作双源同源。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.85/Novex-3.0.5-beta.85-preview.novex"
   }
 }
