@@ -1,11 +1,11 @@
 {
   "_readme": "客户端更新源。channel: stable=稳定版 preview=预览版。download 指向 Gitee 发行版附件，推送后由 publish.sh 自动维护。",
   "stable": {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "channel": "stable",
-    "date": "2026-09-27",
-    "notes": "修复世界卡长时间加载无响应（看门狗+进度显示）；对话提示词代入修复；模块标签与开局资料包；随身笔记与世界快照记忆体系；应用内更新双源（Gitee/GitHub）。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.4/Novex-3.0.4.apk"
+    "date": "2026-09-28",
+    "notes": "记忆体系重构：模块标签与开局资料包、随身笔记与世界快照、存档命令；对话提示词代入修复与卡片契约重构；双源更新（Gitee/GitHub）与公告体系；卡片采用三专属页（身份/背景/管理）；聊天界面整备。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
     "version": "3.0.5-beta.88",
