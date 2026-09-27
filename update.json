@@ -7,5 +7,11 @@
     "notes": "修复世界卡长时间加载无响应（看门狗+进度显示）；对话提示词代入修复；模块标签与开局资料包；随身笔记与世界快照记忆体系；应用内更新双源（Gitee/GitHub）。",
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.4/Novex-3.0.4.apk"
   },
-  "preview": null
+  "preview": {
+    "version": "3.0.5-beta.83",
+    "channel": "preview",
+    "date": "2026-09-27",
+    "notes": "更新源双通道：默认 Gitee（国内）可切换 GitHub（海外），预览/正式独立取道；快照提示词退化（创作会话不产虚构快照）；笔记整理范围契约；挂卡契约提示词分区块重构。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.83/Novex-3.0.5-beta.83-preview.novex"
+  }
 }
