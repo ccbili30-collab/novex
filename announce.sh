@@ -81,6 +81,7 @@ git add "$FILE" announcements.json README.md
 [[ -n "$HERO_COVER" ]] && git add "$HERO_COVER"
 NOTE="无 hero（通用公告）"
 if [[ -n "$HERO_VERSION" ]]; then
-  NOTE="hero: ${HERO_VERSION} / ${HERO_BADGE}$( [[ -n "$HERO_COVER" ]] && echo " / 封面 ${HERO_COVER}" )"
+  # [净眼退回件] 命令替换在 cover 空时返回 1，set -e 会静默带走脚本——尾缀 || true
+  NOTE="hero: ${HERO_VERSION} / ${HERO_BADGE}$( [[ -n "$HERO_COVER" ]] && echo " / 封面 ${HERO_COVER}" || true )"
 fi
 echo "✅ 已生成并暂存：${FILE}（索引+README 已加行，${NOTE}）。写完正文后 commit + push 即应用内生效。"
