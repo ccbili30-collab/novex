@@ -36,7 +36,7 @@ fi
 cd "$(dirname "$0")"
 
 # ---------- 解析仓库(从 remote 地址提取 owner/repo) ----------
-REMOTE_URL="$(git remote get-url origin 2>/dev/null || true)"
+REMOTE_URL="$(git remote get-url origin 2>/dev/null || git remote get-url gitee 2>/dev/null || true)"
 REMOTE_URL="${REMOTE_URL#https://}"
 REMOTE_URL="${REMOTE_URL#git@}"
 OWNER_REPO="$(echo "$REMOTE_URL" | sed -E 's#^gitee.com[:/]##; s#\.git$##')"
@@ -95,6 +95,6 @@ PY
 echo "🚀 推送 ..."
 git add update.json
 git commit -m "release: ${TAG} (${CHANNEL})" -q
-git push -q origin main
+git push -q "$(git remote | grep -qx origin && echo origin || echo gitee)" main
 
 echo "✅ 完成: ${DOWNLOAD_URL}"
