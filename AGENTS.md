@@ -81,9 +81,11 @@ API base：`https://gitee.com/api/v5`，认证参数 `access_token=<令牌>`。
 ## 写公告
 
 1. 新建 `announcements/YYYY-MM-DD-标题.md`（中文正文）；
-2. 在 `announcements.json` 的数组**顶部**加一行 `{"file":"announcements/…","title":"…","date":"YYYY-MM-DD"}`（应用内公告从这里读，最多前 5 条，新到旧）；
+2. 在 `announcements.json` 的数组**顶部**加一行 `{"file":"announcements/…","title":"…","date":"YYYY-MM-DD"}`（应用内公告从这里读，最多前 5 条，新到旧）。可选 `"channel":"stable"|"preview"` = 版本公告（只下发给对应通道；缺省=通用公告，双版本互通）；用户侧新公告会冷启动弹窗（关闭即已读，同文件改内容不重弹）；
 3. 在 `README.md` 的「📢 公告」列表顶部加一行链接（人类浏览入口）；
 4. commit + push——应用内即时生效，无需发版。
+
+> 捷径：`./announce.sh "标题" [stable|preview]` 自动完成 1-3 步的模板与索引。
 
 ## 验证清单（每次发版/公告后必须全过）
 
