@@ -19,8 +19,9 @@ APK="$1"; VERSION="$2"; CHANNEL="${3:-stable}"; NOTES="$4"
 TAG="v${VERSION}"
 API="https://gitee.com/api/v5"
 
-# ---------- 令牌 ----------
+# ---------- 令牌(优先级: 环境变量 > local/token > macOS 钥匙串) ----------
 TOKEN="${GITEE_TOKEN:-$(cat "$(dirname "$0")/local/token" 2>/dev/null || true)}"
+[[ -z "$TOKEN" ]] && TOKEN="$(security find-generic-password -s gitee-token -w 2>/dev/null || true)"
 if [[ -z "$TOKEN" ]]; then
   echo "❌ 未找到令牌: 请设置 GITEE_TOKEN 环境变量, 或写入 local/token" >&2
   exit 1
@@ -70,7 +71,7 @@ echo "⬆️ 上传附件 ${FILENAME} (${SIZE_MB}MB) ..."
 curl -sf -X POST "$API/repos/${OWNER_REPO}/releases/${RELEASE_ID}/attach_files" \
   -H "Content-Type: multipart/form-data" \
   -F "access_token=${TOKEN}" \
-  -F "files=@${APK}" > /dev/null
+  -F "file=@${APK}" > /dev/null
 
 # ---------- 3. 更新 update.json ----------
 echo "📝 更新 update.json ..."
