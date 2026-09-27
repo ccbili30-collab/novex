@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.4/Novex-3.0.4.apk"
   },
   "preview": {
-    "version": "3.0.5-beta.85",
+    "version": "3.0.5-beta.86",
     "channel": "preview",
-    "date": "2026-09-27",
-    "notes": "公告体系 v2：通用公告双版本互通、新公告冷启动弹窗（关闭即已读）、版本公告按通道定向、公告面板内公告/更新切换、公告一处写作双源同源。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.85/Novex-3.0.5-beta.85-preview.novex"
+    "date": "2026-09-28",
+    "notes": "公告面板即开即显（磁盘缓存，关闭前的公告第一时间可见，失败不覆盖）；硬编码内置归档（0.2.x 遗留内容）退役。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5-beta.86/Novex-3.0.5-beta.86-preview.novex"
   }
 }
