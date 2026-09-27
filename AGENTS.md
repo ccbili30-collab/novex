@@ -82,10 +82,11 @@ API base：`https://gitee.com/api/v5`，认证参数 `access_token=<令牌>`。
 
 1. 新建 `announcements/YYYY-MM-DD-标题.md`（中文正文）；
 2. 在 `announcements.json` 的数组**顶部**加一行 `{"file":"announcements/…","title":"…","date":"YYYY-MM-DD"}`（应用内公告从这里读，最多前 5 条，新到旧）。可选 `"channel":"stable"|"preview"` = 版本公告（只下发给对应通道；缺省=通用公告，双版本互通）；用户侧新公告会冷启动弹窗（关闭即已读，同文件改内容不重弹）；
+   - **发版公告 hero 横幅**（[T-announcement-hero]，应用「版本中心」视图）：条目另加可选 `"version"`（有值=渲染横幅）、`"badge"`（徽标胶囊，如「正式版发布」）、`"tagline"`（一句话标语，核心落在「让创作更简单」）、`"cover"`（横幅图，相对路径限定 `announcements/` 目录下 webp/png/jpg，同路径 push 资产文件）。**version/date 与 `update.json` 勾兑，不手填两份**——正文开头「**日期**：/**通道**：」元信息行保留（横幅模式下应用自动跳过，信息上横幅；通用公告照常显示）；
 3. 在 `README.md` 的「📢 公告」列表顶部加一行链接（人类浏览入口）；
 4. commit + push——应用内即时生效，无需发版。
 
-> 捷径：`./announce.sh "标题" [stable|preview]` 自动完成 1-3 步的模板与索引。
+> 捷径：`./announce.sh "标题" [stable|preview] ["标语"]` 自动完成 1-3 步的模板与索引；给通道即按发版公告处理（version/date 从 update.json 勾兑、badge 按通道、封面按 `announcements/assets/<版本>-cover.{webp,png,jpg}` 约定路径自动挂、标语缺省「让创作更简单」句式）。
 
 ## 验证清单（每次发版/公告后必须全过）
 
