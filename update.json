@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "3.0.6-beta.91",
+    "version": "3.0.6-beta.92",
     "channel": "preview",
     "date": "2026-09-28",
-    "notes": "阅读视图全局化（滚动/翻页纯渲染切换，默认翻页）与编辑菜单改名；导入卡简介嵌套 JSON 自动解包；图片内存封顶 128MB；存储管理页新增卡片内容/修订历史两行。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.91/Novex-3.0.6-beta.91-preview.apk"
+    "notes": "设置新增「数据与存储」分组，存储管理入口补挂（含卡片内容/修订历史两行）；含 beta.91 全部修复（阅读视图全局化、简介 JSON 解包、图片内存封顶 128MB）。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.92/Novex-3.0.6-beta.92-preview.apk"
   }
 }
