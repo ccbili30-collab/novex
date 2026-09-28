@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "3.0.6-beta.90",
+    "version": "3.0.6-beta.91",
     "channel": "preview",
     "date": "2026-09-28",
-    "notes": "版本中心式公告面板：发布公告渲染 hero 横幅（封面图+版本号+徽标+标语），正文块级定制渲染，分节符号按裁决只给亮点节标题；hero 元数据与发布体系勾兑（announce.sh 从 update.json 带出版本号/日期）；检查更新加刷新图标、页签下划线式。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.90/Novex-3.0.6-beta.90-preview.apk"
+    "notes": "阅读视图全局化（滚动/翻页纯渲染切换，默认翻页）与编辑菜单改名；导入卡简介嵌套 JSON 自动解包；图片内存封顶 128MB；存储管理页新增卡片内容/修订历史两行。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.91/Novex-3.0.6-beta.91-preview.apk"
   }
 }
