@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "3.0.6-beta.97",
+    "version": "3.0.6-beta.98",
     "channel": "preview",
     "date": "2026-09-29",
-    "notes": "底层清洗工程预览（R0 沙箱退役灰度）：AI 不再被授予或被告知任何命令执行能力（撤销系统提示词中的幽灵工具广告，MCP 命令指引同步下架）；幻觉调用将被明确拒绝。⚠️ 本版为工程验证预览，普通用户请勿更新，建议等待正式推荐版本。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.97/Novex-3.0.6-beta.97-preview.apk"
+    "notes": "底层清洗工程预览（R2-R3 沙箱整体拆除）：沙箱执行层、终端、容器与挂载界面全部移除（-3 万行、APK 瘦身 4.7MB），权限清单瘦身（日历/通讯录/定位已摘）；制卡、对话、生图、技能、附件、手动浏览器不受影响。⚠️ 本版为工程验证预览，普通用户请勿更新；沙箱相关旧数据请在反馈后由我们指引清理。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.98/Novex-3.0.6-beta.98-preview.apk"
   }
 }
