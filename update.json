@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "3.0.6-beta.95",
+    "version": "3.0.6-beta.96",
     "channel": "preview",
     "date": "2026-09-29",
-    "notes": "清洗工程预览（P1）：Novex 自有代码整体迁出上游命名空间（novex.*），并恢复本地崩溃捕获，预期零功能变化。⚠️ 本版为工程验证预览，普通用户请勿更新，建议等待正式推荐版本。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.95/Novex-3.0.6-beta.95-preview.apk"
+    "notes": "底层清洗工程预览（P2）：沙箱容器 rootfs 去 GPL——BusyBox 出包、dash 接管 shell，apk 保留为独立组件；容器需「重置」后生效，沙箱/终端行为为本版验证重点。⚠️ 本版为工程验证预览，普通用户请勿更新，建议等待正式推荐版本。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.96/Novex-3.0.6-beta.96-preview.apk"
   }
 }
