@@ -35,6 +35,7 @@
 
 所有公告按时间倒序存放在 [`announcements/`](./announcements) 目录：
 
+- [2026-10-02 · Novex 3.0.6-beta.108 预览版发布](./announcements/2026-10-02-Novex 3.0.6-beta.108 预览版发布.md)
 - [2026-10-01 · Novex 3.0.6-beta.107 预览版发布](./announcements/2026-10-01-Novex 3.0.6-beta.107 预览版发布.md)
 - [2026-09-30 · Novex 3.0.6-beta.100 预览版发布](./announcements/2026-09-30-Novex 3.0.6-beta.100 预览版发布.md)
 - [2026-09-30 · Novex 3.0.6-beta.99 预览版发布](./announcements/2026-09-30-Novex 3.0.6-beta.99 预览版发布.md)
