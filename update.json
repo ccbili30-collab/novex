@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "3.0.6-beta.107",
+    "version": "3.0.6-beta.108",
     "channel": "preview",
-    "date": "2026-10-01",
-    "notes": "底层清洗工程里程碑预览：后端全面自有化——AI 传输（聊天/生图/模型目录）、数据库与存储、后台服务、OAuth 登录全部为 Novex 自有实现；修复一次构建物污染事故（已加 CI 门禁）。⚠️ 本版为工程验证预览，普通用户请勿更新；从旧版升级数据无损。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.107/Novex-3.0.6-beta.107-preview.apk"
+    "date": "2026-10-02",
+    "notes": "底层清洗工程预览（UI 层收口）：界面层血统清洗落地——聊天/主屏/设置/渲染管线全面结构性重写，安装包再瘦；后端自有化+沙箱退役成果延续。⚠️ 本版为工程验证预览，普通用户请勿更新；升级数据无损。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.108/Novex-3.0.6-beta.108-preview.apk"
   }
 }
