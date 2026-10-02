@@ -71,3 +71,11 @@ https://gitee.com/api/v5/repos/ccbili/novex/releases/latest
 - **下载慢 / 打不开？** 本站走国内线路，一般无需梯子；若仍有问题可尝试切换网络（Wi-Fi ↔ 流量）。
 - **安装包是干什么的？** 仅包含 Novex 客户端本体，不含任何插件数据。
 - **如何反馈问题？** 请使用仓库的「Issues」功能提交反馈。
+
+## 历史版本源码指引（GPL 义务）
+
+Novex 3.x 及更早版本的源码（GPL-3.0 口径，含全部 git 历史与第三方
+GPL 组件的对应源码）永久归档于：
+https://github.com/ccbili30-collab/novex-android（只读归档）
+
+4.0 起的版本基于全自主代码底座（专有许可），源码不再于此公开。
