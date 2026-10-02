@@ -2,6 +2,15 @@
   "_readme": "应用内公告索引（新到旧）。写公告：announcements/ 新建 md，再把条目加到本数组顶部，push 即生效（应用最多读前 5 条）。可选字段：channel=stable|preview（版本公告定向，缺省通用互通）；version/badge/tagline/cover=发布公告 hero 横幅元数据（version 有值即渲染横幅；cover 相对路径限定 announcements/ 目录，webp/png/jpg，同目录 push 资产）。",
   "announcements": [
     {
+      "file": "announcements/2026-10-02-Novex 3.0.6-beta.111 预览版发布.md",
+      "title": "Novex 3.0.6-beta.111 预览版发布",
+      "date": "2026-10-02",
+      "channel": "preview",
+      "version": "3.0.6-beta.111",
+      "badge": "预览版发布",
+      "tagline": "每一次更新，都让创作更简单。"
+    },
+    {
       "file": "announcements/2026-10-02-Novex 3.0.6-beta.110 预览版发布.md",
       "title": "Novex 3.0.6-beta.110 预览版发布",
       "date": "2026-10-02",
