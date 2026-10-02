@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "3.0.6-beta.111",
+    "version": "4.0.0-beta.2",
     "channel": "preview",
     "date": "2026-10-02",
-    "notes": "法律合规收口版：五个高相似度残留文件完成语句级重写（第三方许可审计条件），应用内随附 Apache-2.0/MIT 许可文本与第三方声明文件。功能面与 beta.110 一致。预览版：合规验证用途，请勿日常使用更新。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.111/Novex-3.0.6-beta.111-preview.apk"
+    "notes": "Novex 4.0 首个预览版：全新自主底座。官方供应商三选一（智谱/深度求索开箱即用、自定义），内置模型目录与思考开关；全量性能与稳定性优化。预览通道用户推荐升级；数据无损，直接覆盖安装。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0-beta.2/Novex-4.0.0-beta.2-preview.apk"
   }
 }
