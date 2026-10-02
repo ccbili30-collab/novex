@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "3.0.6-beta.108",
+    "version": "3.0.6-beta.109",
     "channel": "preview",
     "date": "2026-10-02",
-    "notes": "底层清洗工程预览（UI 层收口）：界面层血统清洗落地——聊天/主屏/设置/渲染管线全面结构性重写，安装包再瘦；后端自有化+沙箱退役成果延续。⚠️ 本版为工程验证预览，普通用户请勿更新；升级数据无损。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.108/Novex-3.0.6-beta.108-preview.apk"
+    "notes": "官方供应商通道开箱即用：新增供应商三选一引导（智谱/深度求索/自定义，各带标识）。智谱预设直连 bigmodel v4 接口，填 API Key 即用（内置 GLM-5.3 系模型目录与思考开关）；深度求索预设同理；自定义走手动配置。同步修复：兼容中转上 o 系/gpt-5 模型的参数键选择、智谱思考关档语义。预览版：功能仍在验证，请勿日常使用更新。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.6-beta.109/Novex-3.0.6-beta.109-preview.apk"
   }
 }
