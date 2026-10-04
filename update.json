@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "4.0.0-beta.2",
+    "version": "4.0.0-beta.3",
     "channel": "preview",
-    "date": "2026-10-02",
-    "notes": "Novex 4.0 首个预览版：全新自主底座。官方供应商三选一（智谱/深度求索开箱即用、自定义），内置模型目录与思考开关；全量性能与稳定性优化。预览通道用户推荐升级；数据无损，直接覆盖安装。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0-beta.2/Novex-4.0.0-beta.2-preview.apk"
+    "date": "2026-10-05",
+    "notes": "Novex 4.0.0-beta.3：创作页草稿可丢弃、模型切换流中可选下次生效、卡盘图标区分、设置转场修复；记忆功能整体退役；组件预览与储存管理移除；全局预设与模型连接页全新设计；更新检查失败提示分因。数据无损，直接覆盖安装。",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0-beta.3/zz-novex-preview-installer.apk"
   }
 }
