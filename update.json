@@ -4,14 +4,14 @@
     "version": "4.0.0",
     "channel": "stable",
     "date": "2026-10-05",
-    "notes": "• 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • feat(product): 紫卡真胶囊 chip + 捆绑技能裁到两个 humanizer • fix(release): 镜像步换跨仓 PAT——GITHUB_TOKEN 无 novex 仓写权限 • fix(prompt): 胶囊对照表按工具可用性投影——未暴露工具不进提示词 • feat(product): 卡盘三色分工与对话页可�",
+    "notes": "• 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • feat(product): 紫卡真胶囊 chip + 捆绑技能裁到两个 humanizer • fix(release): 镜像步换跨仓 PAT——GITHUB_TOKEN 无 novex 仓写权限 • fix(prompt): 胶囊对照表按工具可用性投影——未暴露工具不进提示词 • feat(product): 卡盘三色分工与对话页可",
     "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0/novex-4.0.0.apk"
   },
   "preview": {
-    "version": "4.0.0-beta.6",
+    "version": "4.0.1-beta.8",
     "channel": "preview",
     "date": "2026-10-05",
-    "notes": "这是 Novex 4.0.0 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • feat(product): 紫卡真胶囊 chip + 捆绑技能裁到两个 humanizer • fix(release): 镜像步换跨仓 PAT——GITHUB_TOKEN 无 novex 仓写权限 • fix(prompt): 胶囊对照表按工具可用性投",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0-beta.6/zz-novex-preview-installer.apk"
+    "notes": "这是 Novex 4.0.1 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • fix(transport): 中转站流式友好化——SSE 拒压缩/拨号独立 20s/同域重定向跟随/静默预算放宽 • chore(android): open Novex 4.0.1 preview line [skip ci]  ",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.1-beta.8/zz-novex-preview-installer.apk"
   }
 }
