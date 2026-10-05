@@ -1,11 +1,11 @@
 {
   "_readme": "客户端更新源。channel: stable=稳定版 preview=预览版。download 指向 Gitee 发行版附件，推送后由 publish.sh 自动维护。",
   "stable": {
-    "version": "3.0.5",
+    "version": "4.0.0",
     "channel": "stable",
-    "date": "2026-09-28",
-    "notes": "记忆体系重构：模块标签与开局资料包、随身笔记与世界快照、存档命令；对话提示词代入修复与卡片契约重构；双源更新（Gitee/GitHub）与公告体系；卡片采用三专属页（身份/背景/管理）；聊天界面整备。",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
+    "date": "2026-10-05",
+    "notes": "• 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • feat(product): 紫卡真胶囊 chip + 捆绑技能裁到两个 humanizer • fix(release): 镜像步换跨仓 PAT——GITHUB_TOKEN 无 novex 仓写权限 • fix(prompt): 胶囊对照表按工具可用性投影——未暴露工具不进提示词 • feat(product): 卡盘三色分工与对话页可�",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0/novex-4.0.0.apk"
   },
   "preview": {
     "version": "4.0.0-beta.6",
