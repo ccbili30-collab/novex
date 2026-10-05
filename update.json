@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v3.0.5/Novex-3.0.5.apk"
   },
   "preview": {
-    "version": "4.0.0-beta.5",
+    "version": "4.0.0-beta.6",
     "channel": "preview",
     "date": "2026-10-05",
-    "notes": "这是 Novex 4.0.0 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • fix(prompt): 胶囊对照表按工具可用性投影——未暴露工具不进提示词 • feat(product): 卡盘三色分工与对话页可用性批次——紫卡/银卡prefill/金卡收敛/环与模型选",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0-beta.5/zz-novex-preview-installer.apk"
+    "notes": "这是 Novex 4.0.0 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • feat(product): 紫卡真胶囊 chip + 捆绑技能裁到两个 humanizer • fix(release): 镜像步换跨仓 PAT——GITHUB_TOKEN 无 novex 仓写权限 • fix(prompt): 胶囊对照表按工具可用性投",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0-beta.6/zz-novex-preview-installer.apk"
   }
 }
