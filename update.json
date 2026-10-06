@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0/novex-4.0.0.apk"
   },
   "preview": {
-    "version": "4.0.1-beta.12",
+    "version": "4.0.1-beta.14",
     "channel": "preview",
     "date": "2026-10-06",
-    "notes": "这是 Novex 4.0.1 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • fix(tools): 新增窄面 skill_read——技能页恢复按需加载 (#9) • feat(chat): 岛渲染加固 + island-craft 内置技能 + 思考徽章解锁 (#8) • feat(chat): HTML 岛——```html 代码块�",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.1-beta.12/zz-novex-preview-installer.apk"
+    "notes": "这是 Novex 4.0.1 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • fix(chat): 岛渲染黑/白屏根治 + 智谱 Coding Plan 通道接入 (#11) • fix(cards): 原文导入卡激活降级为按需载入——暴力读取的世界卡可玩 (#10) • fix(tools): 新增窄面 s",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.1-beta.14/zz-novex-preview-installer.apk"
   }
 }
