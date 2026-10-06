@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0/novex-4.0.0.apk"
   },
   "preview": {
-    "version": "4.0.1-beta.9",
+    "version": "4.0.1-beta.10",
     "channel": "preview",
-    "date": "2026-10-05",
-    "notes": "这是 Novex 4.0.1 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • feat(chat): HTML 岛——```html 代码块渲成消息流内的可交互沙箱界面 • fix(transport): 中转站流式友好化——SSE 拒压缩/拨号独立 20s/同域重定向跟随/静默预算放宽 ",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.1-beta.9/zz-novex-preview-installer.apk"
+    "date": "2026-10-06",
+    "notes": "这是 Novex 4.0.1 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • feat(chat): 岛渲染加固 + island-craft 内置技能 + 思考徽章解锁 (#8) • feat(chat): HTML 岛——```html 代码块渲成消息流内的可交互沙箱界面 • fix(transport): 中转站流式�",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.1-beta.10/zz-novex-preview-installer.apk"
   }
 }
