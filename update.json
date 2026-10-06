@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.0/novex-4.0.0.apk"
   },
   "preview": {
-    "version": "4.0.1-beta.15",
+    "version": "4.0.1-beta.16",
     "channel": "preview",
     "date": "2026-10-07",
-    "notes": "这是 Novex 4.0.1 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • fix(chat): 岛帧推送去重治抽动 + 量高改取真实内容底；智谱通道纳 api.z.ai (#12) • fix(chat): 岛渲染黑/白屏根治 + 智谱 Coding Plan 通道接入 (#11) • fix(cards): 原文导",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.1-beta.15/zz-novex-preview-installer.apk"
+    "notes": "这是 Novex 4.0.1 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • feat(providers): 智谱 Coding Plan 独立官方卡——按量/套餐双通道开箱即用 (#13) • fix(chat): 岛帧推送去重治抽动 + 量高改取真实内容底；智谱通道纳 api.z.ai (#12) • ",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.1-beta.16/zz-novex-preview-installer.apk"
   }
 }
