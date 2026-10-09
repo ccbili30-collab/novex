@@ -1,11 +1,11 @@
 {
   "_readme": "客户端更新源。channel: stable=稳定版 preview=预览版。download 指向 Gitee 发行版附件，推送后由 publish.sh 自动维护。",
   "stable": {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "channel": "stable",
     "date": "2026-10-09",
-    "notes": "• 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。  ",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.2/novex-4.0.2.apk"
+    "notes": "• 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • test: 文档转卡单测对齐块校验约束与续章命名 • release: 开启 4.0.3 预览线 • feat(chat): 附件文档分级投递 + 建卡管理范围兜底 • fix(release): sync 脚本的 tr 加 LC_ALL=C——BSD tr 在 UTF-8 locale 下对多字节报错 • fix(release): Gitee 附件上传",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.3/novex-4.0.3.apk"
   },
   "preview": {
     "version": "4.0.2-beta.20",
