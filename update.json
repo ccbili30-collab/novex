@@ -1,11 +1,11 @@
 {
   "_readme": "客户端更新源。channel: stable=稳定版 preview=预览版。download 指向 Gitee 发行版附件，推送后由 publish.sh 自动维护。",
   "stable": {
-    "version": "4.0.4",
+    "version": "4.0.6",
     "channel": "stable",
-    "date": "2026-10-10",
-    "notes": "• 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • release: 开启 4.0.4 候选线 • fix(prompt): 工具指南门控改按现役目录——P0-2 谎报建卡能力 (#29) • chore: 死代码清仓第一批——死屏/死机制/死表（~3100 行） (#28) • fix(auth): Codex token 交换响应不再裸写日志 (#26) • fix(chat): 弱模型寻址",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.4/novex-4.0.4.apk"
+    "date": "2026-10-11",
+    "notes": "# Novex 4.0.6  ## 注册的界面是真的资产了  - **前端件注册表持久化**：AI 注册过的面板、血条等界面现在存进会话，按消息分支继承——重试回复、编辑消息、切换分支之后，已注册的件依然在。此前注册只是\"挂在某条回复里\"，回复一换注册就没了，AI 只能整个界面重写一遍（所以每次重试界面都长不一",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.6/novex-4.0.6.apk"
   },
   "preview": {
     "version": "4.0.3-beta.23",
