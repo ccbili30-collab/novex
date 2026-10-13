@@ -1,11 +1,11 @@
 {
   "_readme": "客户端更新源。channel: stable=稳定版 preview=预览版。download 指向 Gitee 发行版附件，推送后由 publish.sh 自动维护。",
   "stable": {
-    "version": "4.0.6",
+    "version": "4.0.8",
     "channel": "stable",
-    "date": "2026-10-11",
-    "notes": "# Novex 4.0.6  ## 注册的界面是真的资产了  - **前端件注册表持久化**：AI 注册过的面板、血条等界面现在存进会话，按消息分支继承——重试回复、编辑消息、切换分支之后，已注册的件依然在。此前注册只是\"挂在某条回复里\"，回复一换注册就没了，AI 只能整个界面重写一遍（所以每次重试界面都长不一",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.6/novex-4.0.6.apk"
+    "date": "2026-10-13",
+    "notes": "# Novex 4.0.8  ## 全屏舞台作品上线  - AI 界面作品可以声明 `display:\"fullscreen\"` 把整个消息区换成自绘界面——战报板、书信、仪表盘这类整页形态不再是皮肤贴图，而是有数据协议的完整作品。 - 舞台与宿主走 NOVEN_FRAME 数据帧协议：宿主每轮推结构化叙事流（transcript）、角色名册（cast）、选项（choices）�",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.8/SHA256SUMS.txt"
   },
   "preview": {
     "version": "4.0.9-rc.30",
