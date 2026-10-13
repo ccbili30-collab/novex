@@ -8,10 +8,10 @@
     "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.6/novex-4.0.6.apk"
   },
   "preview": {
-    "version": "4.0.3-beta.23",
+    "version": "4.0.9-rc.30",
     "channel": "preview",
-    "date": "2026-10-09",
-    "notes": "这是 Novex 4.0.3 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • test: 文档转卡单测对齐块校验约束与续章命名 • release: 开启 4.0.3 预览线 • feat(chat): 附件文档分级投递 + 建卡管理范围兜底 • fix(release): sync 脚本的 tr 加 LC_",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.3-beta.23/zz-novex-preview-installer.apk"
+    "date": "2026-10-13",
+    "notes": "这是 Novex 4.0.9 的预览候选版，用于在正式发布前验证新功能与修复。  • 本版本包含自上一正式版以来通过预览验证的功能改进与问题修复。 • fix(release): Gitee 附件配额打满时自动清旧附件再重传 • chore(android): open Novex 4.0.9 preview line [skip ci] ",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.9-rc.30/zz-novex-preview-installer.apk"
   }
 }
