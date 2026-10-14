@@ -4,7 +4,7 @@
 
 **Novex · Android 客户端官方发布站**
 
-[![最新版本](https://img.shields.io/badge/最新版本-v3.0.5-blue)](./announcements)
+[![最新版本](https://img.shields.io/badge/最新版本-v4.0.8-blue)](./announcements)
 [![更新通道](https://img.shields.io/badge/通道-稳定%20stable-green)](#-更新通道)
 
 </div>
@@ -20,8 +20,8 @@
 
 | 通道 | 版本 | 说明 |
 |---|---|---|
-| **稳定版（推荐）** | v3.0.5 | 日常使用请选这个 |
-| 预览版 | v3.0.6-beta.90 | 新功能尝鲜，可能不稳定 |
+| **稳定版（推荐）** | v4.0.8 | 日常使用请选这个 |
+| 预览版 | v4.0.9-rc.30 | 新功能尝鲜，可能不稳定 |
 
 👉 **点击仓库顶部「发行版 / Releases」标签页下载最新安装包**
 
@@ -35,7 +35,7 @@
 
 所有公告按时间倒序存放在 [`announcements/`](./announcements) 目录：
 
-- [2026-10-02 · Novex 4.0.0-beta.2 预览版：全新自主底座](./announcements/2026-10-02-Novex 4.0.0-beta.2 预览版：全新自主底座.md)
+- [2026-10-02 · Novex 4.0.0-beta.2 预览版发布](./announcements/2026-10-02-Novex 4.0.0-beta.2 预览版发布.md)
 - [2026-10-02 · Novex 3.0.6-beta.111 预览版发布](./announcements/2026-10-02-Novex 3.0.6-beta.111 预览版发布.md)
 - [2026-10-02 · Novex 3.0.6-beta.110 预览版发布](./announcements/2026-10-02-Novex 3.0.6-beta.110 预览版发布.md)
 - [2026-10-02 · Novex 3.0.6-beta.109 预览版发布](./announcements/2026-10-02-Novex 3.0.6-beta.109 预览版发布.md)
@@ -73,10 +73,11 @@ https://gitee.com/api/v5/repos/ccbili/novex/releases/latest
 - **安装包是干什么的？** 仅包含 Novex 客户端本体，不含任何插件数据。
 - **如何反馈问题？** 请使用仓库的「Issues」功能提交反馈。
 
-## 历史版本源码指引（GPL 义务）
+## 源码
+
+Novex 以 GPL-3.0 开源，源码仓库：
+https://github.com/ccbili30-collab/noven_bohe
 
 Novex 3.x 及更早版本的源码（GPL-3.0 口径，含全部 git 历史与第三方
 GPL 组件的对应源码）永久归档于：
 https://github.com/ccbili30-collab/novex-android（只读归档）
-
-4.0 起的版本基于全自主代码底座（专有许可），源码不再于此公开。

@@ -4,8 +4,8 @@
     "version": "4.0.8",
     "channel": "stable",
     "date": "2026-10-13",
-    "notes": "# Novex 4.0.8  ## 全屏舞台作品上线  - AI 界面作品可以声明 `display:\"fullscreen\"` 把整个消息区换成自绘界面——战报板、书信、仪表盘这类整页形态不再是皮肤贴图，而是有数据协议的完整作品。 - 舞台与宿主走 NOVEN_FRAME 数据帧协议：宿主每轮推结构化叙事流（transcript）、角色名册（cast）、选项（choices）�",
-    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.8/SHA256SUMS.txt"
+    "notes": "# Novex 4.0.8  ## 全屏舞台作品上线  - AI 界面作品可以声明 `display:\"fullscreen\"` 把整个消息区换成自绘界面——战报板、书信、仪表盘这类整页形态不再是皮肤贴图，而是有数据协议的完整作品。 - 舞台与宿主走 NOVEN_FRAME 数据帧协议：宿主每轮推结构化叙事流（transcript）、角色名册（cast）、选项（choices）�",
+    "download": "https://gitee.com/ccbili/novex/releases/download/v4.0.8/novex.apk"
   },
   "preview": {
     "version": "4.0.9-rc.30",
