@@ -1,7 +1,10 @@
 {
-  "version": "0.2.0",
-  "tag": "v0.2.0",
-  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.2.0/Novex-v0.2.0.apk",
-  "releasesUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.2.0",
-  "updatedAt": "2026-11-25"
+  "version": "0.3.0",
+  "versionCode": 300,
+  "tag": "v0.3.0",
+  "publishedAt": "2026-11-25T19:16:33Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.0/Novex-v0.3.0.apk",
+  "sha256": "02a0bd7054b57f8c040d915be5088d85e903dc7824e9e362afab8c0f59958a72",
+  "sizeBytes": 2704346,
+  "notes": "记忆路由三层引擎、Chat/Work 双模式与 6 工具工坊、动态记忆树（分支回溯自动撤回）、4 协议工具流全对齐、回忆树时间轴与沉浸式热区打磨"
 }
