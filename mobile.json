@@ -1,10 +1,10 @@
 {
-  "version": "0.3.9",
-  "versionCode": 309,
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.9/Novex-v0.3.9.apk",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.9",
-  "sha256": "e175d7bb886c4b9879968122345c66747a67722833d5938553724f4ffac854ff",
+  "version": "0.3.10",
+  "versionCode": 310,
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.10/Novex-v0.3.10.apk",
+  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.10",
+  "sha256": "3d7998f0aabadcbad51bbfb1b6b651d44735db852579bf118448fbce3f569ed3",
   "sizeBytes": 2733074,
-  "publishedAt": "2026-11-26T12:57:09Z",
-  "notes": "1. 四协议思考参数彻底去掉模型名猜测，开/关对称下发 + 400 自动分级降级\n2. 沉浸舞台禁掉网页左滑冲突，顶层返回弹出退出确认窗（进度自动保留）\n3. 按会话记住沉浸态，重进 App 或切回会话直接回到正在玩的舞台"
+  "publishedAt": "2026-11-26T12:59:25Z",
+  "notes": "1. 四协议思考参数彻底去掉模型名猜测，开/关对称下发 + 400 自动分级降级\n2. 右侧悬浮退出钮移出安卓侧滑热区修复闪烁，改为无弹窗立即强制脱离并终止运行中任务\n3. 系统侧滑支持逐级返回与顶层退出确认弹窗，且按会话记住沉浸态无缝续玩"
 }
