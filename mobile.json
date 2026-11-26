@@ -1,10 +1,10 @@
 {
-  "version": "0.3.1",
-  "versionCode": 301,
-  "tag": "v0.3.1",
-  "publishedAt": "2026-11-25T19:42:51Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.1/Novex-v0.3.1.apk",
-  "sha256": "0dd8d3206a552ea9192fbb2634fa14941251e49c2b60a9fc6a68085db8f497cc",
-  "sizeBytes": 2704346,
-  "notes": "零抖动沉浸式（顶底全悬浮零重排）、三态实时时间轴（进行中展开/完成后收起为已完成）与流式写卡实时预览"
+  "version": "0.3.2",
+  "versionCode": 302,
+  "tag": "v0.3.2",
+  "publishedAt": "2026-11-26T04:00:53Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.2/Novex-v0.3.2.apk",
+  "sha256": "3767c8c0a4689ec27ff87d7377574b9ab15cd09c550a75098836858c43d50d16",
+  "sizeBytes": 2708442,
+  "notes": "全协议（OpenAI Chat/Responses、Anthropic、Gemini）思考开关真正生效 + 顶栏 Chat/Work 胶囊任意点击直接切换"
 }
