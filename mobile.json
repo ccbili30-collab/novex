@@ -1,10 +1,10 @@
 {
-  "version": "0.3.5",
-  "versionCode": 305,
-  "tag": "v0.3.5",
-  "publishedAt": "2026-11-26T06:41:27Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.5/Novex-v0.3.5.apk",
-  "sha256": "a21218f8fd5ce9119c8651ef683a6b601ab6d02f61cfa473cfe5ce3064205616",
-  "sizeBytes": 3442707,
-  "notes": "电脑版同款卡片预览（H 层第一步）+ 吸顶目录展开菜单直跳 + 模块编辑「触发规则」按钮优化"
+  "version": "0.3.6",
+  "versionCode": 306,
+  "tag": "v0.3.6",
+  "publishedAt": "2026-11-26T11:24:01Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.6/Novex-v0.3.6.apk",
+  "sha256": "162877aced2898122bd738e3069baae560cb6eedb472e9cca0af9f73931ac455",
+  "sizeBytes": 2733074,
+  "notes": "卡片目录大纲与全屏纸面编辑 + 净室前端卡兼容沙箱 + 通用沉浸式前端舞台（自由注册工具与戏内/戏外隔离）+ 模型弹窗瘦身与思考开关修复"
 }
