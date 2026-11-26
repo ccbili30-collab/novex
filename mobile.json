@@ -1,10 +1,10 @@
 {
-  "version": "0.3.7",
-  "versionCode": 307,
-  "tag": "v0.3.7",
-  "publishedAt": "2026-11-26T12:01:57Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.7/Novex-v0.3.7.apk",
-  "sha256": "28b9664b52c248490e5000d25f0147325b098f3a016ad37d52ccaf30a0c33dff",
+  "version": "0.3.8",
+  "versionCode": 308,
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.8/Novex-v0.3.8.apk",
+  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.8",
+  "sha256": "e2838077e293cf679cd8da034688edd862e0d881c0fb2f7685299e996b4252cb",
   "sizeBytes": 2733074,
-  "notes": "修复安卓真机 WebView CSP 拦截导致前端卡与全屏沉浸舞台无法显示的问题"
+  "publishedAt": "2026-11-26T12:21:58Z",
+  "notes": "1. 全协议思考开关通用化 + HTTP 400 自动降级（Google Gemini / OpenAI Chat / Responses / Anthropic）\n2. 修复沉浸舞台右侧返回按钮在手机端只闪不退出的触控问题\n3. 沉浸舞台新增实时安全区/键盘高度推送、分级返回栈与真机状态栏明暗同步"
 }
