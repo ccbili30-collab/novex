@@ -1,10 +1,10 @@
 {
-  "version": "0.3.10",
-  "versionCode": 310,
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.10/Novex-v0.3.10.apk",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.10",
-  "sha256": "72f23c61c0219dd898fa987fd767a1b1235d32cd3efd1dfe0b773ac099c01443",
-  "sizeBytes": 2733074,
-  "publishedAt": "2026-11-26T13:03:46Z",
-  "notes": "1. 四协议思考参数彻底去掉模型名猜测，开/关对称下发 + 400 自动分级降级\n2. 右侧悬浮退出钮移出安卓侧滑热区修复闪烁，改为无弹窗立即强制脱离并终止运行中任务\n3. 系统侧滑支持逐级返回与顶层退出确认弹窗，且按会话记住沉浸态无缝续玩\n4. 修复检查更新被 jsDelivr 旧缓存卡住的问题（多源并发查询取最高版本）"
+  "version": "0.3.11",
+  "versionCode": 311,
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.11/Novex-v0.3.11.apk",
+  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.11",
+  "sha256": "c1d86fcb6a3d4f5ac7fe5fea633673b5bb98d5402735073db294657e777d56c0",
+  "sizeBytes": 2749458,
+  "publishedAt": "2026-11-26T14:05:17Z",
+  "notes": "1. 手机端前端卡自编程第一期：5个文件读写/局部修改/体检工具 + 自动快照撤销 + 本地图片素材库 + 运行期报错一键回传自修\n2. 会话与卡册支持双向覆盖同步（外→内 / 内→外 / 另存为新卡 / 自动同步开关）\n3. 卡片详情页新增前端卡独立静态注入模块（无源码展示，Chat 不可见）"
 }
