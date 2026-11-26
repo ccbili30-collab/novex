@@ -1,10 +1,10 @@
 {
-  "version": "0.3.6",
-  "versionCode": 306,
-  "tag": "v0.3.6",
-  "publishedAt": "2026-11-26T11:24:01Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.6/Novex-v0.3.6.apk",
-  "sha256": "162877aced2898122bd738e3069baae560cb6eedb472e9cca0af9f73931ac455",
+  "version": "0.3.7",
+  "versionCode": 307,
+  "tag": "v0.3.7",
+  "publishedAt": "2026-11-26T12:01:57Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.7/Novex-v0.3.7.apk",
+  "sha256": "28b9664b52c248490e5000d25f0147325b098f3a016ad37d52ccaf30a0c33dff",
   "sizeBytes": 2733074,
-  "notes": "卡片目录大纲与全屏纸面编辑 + 净室前端卡兼容沙箱 + 通用沉浸式前端舞台（自由注册工具与戏内/戏外隔离）+ 模型弹窗瘦身与思考开关修复"
+  "notes": "修复安卓真机 WebView CSP 拦截导致前端卡与全屏沉浸舞台无法显示的问题"
 }
