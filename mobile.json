@@ -1,10 +1,10 @@
 {
-  "version": "0.3.4",
-  "versionCode": 304,
-  "tag": "v0.3.4",
-  "publishedAt": "2026-11-26T05:46:51Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.4/Novex-v0.3.4.apk",
-  "sha256": "2737615305a52708400967c0353b513d178e16cebaa2b9bb8398662b34a81a2f",
-  "sizeBytes": 2716690,
-  "notes": "全屏纸面消息编辑 + DeepSeek 导出包勾选导入（含思考与分支）+ DeepSeek 上手引导 + 会话设置与卡册工坊精简整理"
+  "version": "0.3.5",
+  "versionCode": 305,
+  "tag": "v0.3.5",
+  "publishedAt": "2026-11-26T06:41:27Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.5/Novex-v0.3.5.apk",
+  "sha256": "a21218f8fd5ce9119c8651ef683a6b601ab6d02f61cfa473cfe5ce3064205616",
+  "sizeBytes": 3442707,
+  "notes": "电脑版同款卡片预览（H 层第一步）+ 吸顶目录展开菜单直跳 + 模块编辑「触发规则」按钮优化"
 }
