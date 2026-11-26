@@ -1,10 +1,10 @@
 {
-  "version": "0.3.11",
-  "versionCode": 311,
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.11/Novex-v0.3.11.apk",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.11",
-  "sha256": "c1d86fcb6a3d4f5ac7fe5fea633673b5bb98d5402735073db294657e777d56c0",
-  "sizeBytes": 2749458,
-  "publishedAt": "2026-11-26T14:05:17Z",
-  "notes": "1. 手机端前端卡自编程第一期：5个文件读写/局部修改/体检工具 + 自动快照撤销 + 本地图片素材库 + 运行期报错一键回传自修\n2. 会话与卡册支持双向覆盖同步（外→内 / 内→外 / 另存为新卡 / 自动同步开关）\n3. 卡片详情页新增前端卡独立静态注入模块（无源码展示，Chat 不可见）"
+  "version": "0.3.12",
+  "versionCode": 312,
+  "tag": "v0.3.12",
+  "publishedAt": "2026-11-26T14:17:39Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.12/Novex-v0.3.12.apk",
+  "sha256": "e67e987c7262de10e173e612778ae9028565131f686b31fa98b589c658197917",
+  "sizeBytes": 3470367,
+  "notes": "丝滑度专项优化（消除流式打字与滚动微卡顿）+ 内嵌保姆级使用说明书 + 新版前端舞台制作能力"
 }
