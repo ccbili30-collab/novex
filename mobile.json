@@ -1,10 +1,10 @@
 {
-  "version": "0.3.2",
-  "versionCode": 302,
-  "tag": "v0.3.2",
-  "publishedAt": "2026-11-26T04:00:53Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.2/Novex-v0.3.2.apk",
-  "sha256": "3767c8c0a4689ec27ff87d7377574b9ab15cd09c550a75098836858c43d50d16",
-  "sizeBytes": 2708442,
-  "notes": "全协议（OpenAI Chat/Responses、Anthropic、Gemini）思考开关真正生效 + 顶栏 Chat/Work 胶囊任意点击直接切换"
+  "version": "0.3.3",
+  "versionCode": 303,
+  "tag": "v0.3.3",
+  "publishedAt": "2026-11-26T04:46:10Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.3/Novex-v0.3.3.apk",
+  "sha256": "3de7f2093d82c73112ab152fbadde32b817d5cbc8f98d4cf96f8d7a628a127d2",
+  "sizeBytes": 2708498,
+  "notes": "思考开关默认关闭+按模型配置思考等级自选（两端面板完全同步）+ 安卓软件内直接下载与调起安装"
 }
