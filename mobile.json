@@ -1,10 +1,10 @@
 {
-  "version": "0.3.15",
-  "versionCode": 315,
-  "tag": "v0.3.15",
-  "publishedAt": "2026-11-27T10:26:32Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.15/Novex-v0.3.15.apk",
-  "sha256": "0ae0b353b66fb15d653c96783298667efedbf10a489eb69a86f06127196ca909",
-  "sizeBytes": 3476655,
-  "notes": "系统提示词明确保存与全局状态透底 + 修改消息半屏留上下文（可切全屏） + 输入框自适应拉长与一键放大编辑"
+  "version": "0.3.16",
+  "versionCode": 316,
+  "tag": "v0.3.16",
+  "publishedAt": "2026-11-27T12:08:39Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.16/Novex-v0.3.16.apk",
+  "sha256": "67794cc047582b620577a19cc6ed5fc56bc02194a8e5a3430f8c50b9f5df2dfd",
+  "sizeBytes": 3477119,
+  "notes": "修复安卓中文输入法组字期间被重置高度及隐藏抽屉抢焦点导致的偶现无法打字问题"
 }
