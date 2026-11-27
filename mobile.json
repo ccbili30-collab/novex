@@ -1,10 +1,10 @@
 {
-  "version": "0.3.13",
-  "versionCode": 313,
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.13/Novex-v0.3.13.apk",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.13",
-  "sha256": "875162ad2ead16453ef2b419920e7ccfb2f38758301cdabdcbbf05f96b488d70",
-  "sizeBytes": 2749458,
-  "publishedAt": "2026-11-26T18:05:15Z",
-  "notes": "1. 支持 .novex.zip 卡片默认开启现实信息注入（defaults.realityInjection）\n2. 新增通用戏外无记忆展示层尾注协议（仅界面吐出，不回传模型记忆）"
+  "version": "0.3.14",
+  "versionCode": 314,
+  "tag": "v0.3.14",
+  "publishedAt": "2026-11-27T03:46:49Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.14/Novex-v0.3.14.apk",
+  "sha256": "55f3e6739caf3b02dfb529015bef90d7326adb7ef484fae457c21fee71ffa2a8",
+  "sizeBytes": 3474719,
+  "notes": "模型一键试探配置（思考方言/识图/联网）+ 弹键盘对话自动抬升 + 发送定位与回底按钮防撞修复 + 首次点开零卡顿优化"
 }
