@@ -1,9 +1,9 @@
 {
-  "latestVersion": "0.3.19",
-  "versionCode": 319,
-  "releaseTag": "v0.3.19",
-  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.19/Novex-v0.3.19.apk",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.19",
-  "publishedAt": "2026-11-27T17:21:16Z",
-  "notes": "深度返工：消除安卓 CSP 体检假报错 · 解除前端卡强锁 Work · 修复多轮工具循环 HTTP 400 与报错 UI · 统一智能配置单一真源 · 封堵 postMessage 沙盒越权"
+  "latestVersion": "0.3.20",
+  "versionCode": 320,
+  "releaseTag": "v0.3.20",
+  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.20/Novex-v0.3.20.apk",
+  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.20",
+  "publishedAt": "2026-11-27T17:33:48Z",
+  "notes": "热修：修复思考模式下从其他模型切到 deepseek-flash 等模型时历史消息缺少 reasoning_content 导致 HTTP 400 的问题"
 }
