@@ -1,10 +1,10 @@
 {
-  "version": "0.3.16",
-  "versionCode": 316,
-  "tag": "v0.3.16",
-  "publishedAt": "2026-11-27T12:08:39Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.16/Novex-v0.3.16.apk",
-  "sha256": "67794cc047582b620577a19cc6ed5fc56bc02194a8e5a3430f8c50b9f5df2dfd",
-  "sizeBytes": 3477119,
-  "notes": "修复安卓中文输入法组字期间被重置高度及隐藏抽屉抢焦点导致的偶现无法打字问题"
+  "version": "0.3.17",
+  "versionCode": 317,
+  "tag": "v0.3.17",
+  "publishedAt": "2026-11-27T13:05:08Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.17/Novex-v0.3.17.apk",
+  "sha256": "87088ad0bfd45d7d0ec6cabdbcccd88d4b272624797488750271a77224019986",
+  "sizeBytes": 3477167,
+  "notes": "修复 Chat 切回后对 Work 对话失忆的问题：自动清洗原始工具 JSON，完整保留自然语言商量结论"
 }
