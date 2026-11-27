@@ -1,10 +1,10 @@
 {
-  "version": "0.3.14",
-  "versionCode": 314,
-  "tag": "v0.3.14",
-  "publishedAt": "2026-11-27T03:46:49Z",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.14/Novex-v0.3.14.apk",
-  "sha256": "55f3e6739caf3b02dfb529015bef90d7326adb7ef484fae457c21fee71ffa2a8",
-  "sizeBytes": 3474719,
-  "notes": "模型一键试探配置（思考方言/识图/联网）+ 弹键盘对话自动抬升 + 发送定位与回底按钮防撞修复 + 首次点开零卡顿优化"
+  "version": "0.3.15",
+  "versionCode": 315,
+  "tag": "v0.3.15",
+  "publishedAt": "2026-11-27T10:26:32Z",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.15/Novex-v0.3.15.apk",
+  "sha256": "0ae0b353b66fb15d653c96783298667efedbf10a489eb69a86f06127196ca909",
+  "sizeBytes": 3476655,
+  "notes": "系统提示词明确保存与全局状态透底 + 修改消息半屏留上下文（可切全屏） + 输入框自适应拉长与一键放大编辑"
 }
