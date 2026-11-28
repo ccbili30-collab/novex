@@ -1,13 +1,13 @@
 {
-  "tag": "v0.3.24",
-  "version": "0.3.24",
-  "latestVersion": "0.3.24",
-  "versionCode": 324,
-  "releaseTag": "v0.3.24",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.24/Novex-v0.3.24.apk",
-  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.24/Novex-v0.3.24.apk",
-  "releasesUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.24",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.24",
-  "publishedAt": "2026-11-28T09:31:40Z",
-  "notes": "热修：同步前端 package.json 版本号至 v0.3.24，并在 build-apk.sh 加入版本号一致性机械门禁"
+  "tag": "v0.3.25",
+  "version": "0.3.25",
+  "latestVersion": "0.3.25",
+  "versionCode": 325,
+  "releaseTag": "v0.3.25",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.25/Novex-v0.3.25.apk",
+  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.25/Novex-v0.3.25.apk",
+  "releasesUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.25",
+  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.25",
+  "publishedAt": "2026-11-28T09:41:20Z",
+  "notes": "修复1M模型上下文遥测误显128K、OpenAI通用兼容（中转）3×4网格正常切换、已有供应商预设默认折叠+切换前二次确认防误触"
 }
