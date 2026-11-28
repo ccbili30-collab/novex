@@ -1,9 +1,13 @@
 {
-  "latestVersion": "0.3.20",
-  "versionCode": 320,
-  "releaseTag": "v0.3.20",
-  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.20/Novex-v0.3.20.apk",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.20",
-  "publishedAt": "2026-11-27T17:33:48Z",
-  "notes": "热修：修复思考模式下从其他模型切到 deepseek-flash 等模型时历史消息缺少 reasoning_content 导致 HTTP 400 的问题"
+  "tag": "v0.3.22",
+  "version": "0.3.22",
+  "latestVersion": "0.3.22",
+  "versionCode": 322,
+  "releaseTag": "v0.3.22",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.22/Novex-v0.3.22.apk",
+  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.22/Novex-v0.3.22.apk",
+  "releasesUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.22",
+  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.22",
+  "publishedAt": "2026-11-28T08:57:43Z",
+  "notes": "自适应平滑吐字队列、AI回复底部唯一重试入口、按使用率排序的厂商快捷预设（含小米MiMo）及系统返回键优先级修复"
 }
