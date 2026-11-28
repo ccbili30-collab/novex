@@ -1,13 +1,13 @@
 {
-  "tag": "v0.3.25",
-  "version": "0.3.25",
-  "latestVersion": "0.3.25",
-  "versionCode": 325,
-  "releaseTag": "v0.3.25",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.25/Novex-v0.3.25.apk",
-  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.25/Novex-v0.3.25.apk",
-  "releasesUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.25",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.25",
-  "publishedAt": "2026-11-28T09:41:20Z",
-  "notes": "修复1M模型上下文遥测误显128K、OpenAI通用兼容（中转）3×4网格正常切换、已有供应商预设默认折叠+切换前二次确认防误触"
+  "tag": "v0.3.26",
+  "version": "0.3.26",
+  "latestVersion": "0.3.26",
+  "versionCode": 326,
+  "releaseTag": "v0.3.26",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.26/Novex-v0.3.26.apk",
+  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.26/Novex-v0.3.26.apk",
+  "releasesUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.26",
+  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.26",
+  "publishedAt": "2026-11-28T10:15:20Z",
+  "notes": "匀速平滑吐字封顶、OpenRouter Gemini exclude:true、纯全屏对话编辑、智能配置状态对齐与全套自查风险清零"
 }
