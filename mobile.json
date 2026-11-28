@@ -1,13 +1,13 @@
 {
-  "tag": "v0.3.23",
-  "version": "0.3.23",
-  "latestVersion": "0.3.23",
-  "versionCode": 323,
-  "releaseTag": "v0.3.23",
-  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.23/Novex-v0.3.23.apk",
-  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.23/Novex-v0.3.23.apk",
-  "releasesUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.23",
-  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.23",
-  "publishedAt": "2026-11-28T09:18:45Z",
-  "notes": "2026-11最新旗舰模型上限（含DeepSeek V4.1 1M/384K）、厂商预设三列网格、编辑模型保留滚动位置、星标默认动效及超长模型名前端折叠"
+  "tag": "v0.3.24",
+  "version": "0.3.24",
+  "latestVersion": "0.3.24",
+  "versionCode": 324,
+  "releaseTag": "v0.3.24",
+  "apkUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.24/Novex-v0.3.24.apk",
+  "downloadUrl": "https://github.com/ccbili30-collab/novex/releases/download/v0.3.24/Novex-v0.3.24.apk",
+  "releasesUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.24",
+  "releaseUrl": "https://github.com/ccbili30-collab/novex/releases/tag/v0.3.24",
+  "publishedAt": "2026-11-28T09:31:40Z",
+  "notes": "热修：同步前端 package.json 版本号至 v0.3.24，并在 build-apk.sh 加入版本号一致性机械门禁"
 }
